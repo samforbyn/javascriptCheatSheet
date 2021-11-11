@@ -1,0 +1,22 @@
+.bodystyle {
+  font-family: bahnschrift light;
+  color: #29cf34;
+  background-image: linear-gradient(90deg, #be99c3, #9d65a5);
+  text-align: center;
+  margin: 0;
+}
+
+.header-container {
+  width: 80%;
+  margin: 3rem 3rem;
+  background-color: #7cae75;
+}
+img {
+  height: 4em;
+  width: 4em;
+  float: left;
+}
+li {
+  list-style-type: none;
+  color: #a775ae;
+}
