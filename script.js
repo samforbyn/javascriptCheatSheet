@@ -2,6 +2,7 @@
 // const singleQuotes = 'Hello World!';
 // const doubleQuotes = "Hello World!!";
 const backticks = `${2+2}`;
+console.log(backticks);
 console.log(typeof backticks);
 
 // Numbers
